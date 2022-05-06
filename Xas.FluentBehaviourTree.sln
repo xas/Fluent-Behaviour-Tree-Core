@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent-behaviour-tree", "src\fluent-behaviour-tree.csproj", "{41E64A25-7890-4EDD-B405-D907BADCF7EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xas.FluentBehaviourTree", "src\Xas.FluentBehaviourTree.csproj", "{41E64A25-7890-4EDD-B405-D907BADCF7EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{EF32B162-43DA-4295-84C3-535A50BEAFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xas.FluentBehaviourTree.Tests", "tests\Xas.FluentBehaviourTree.Tests.csproj", "{EF32B162-43DA-4295-84C3-535A50BEAFD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD4E383-9163-487E-859F-4BD8112055AA}
 	EndGlobalSection
 EndGlobal

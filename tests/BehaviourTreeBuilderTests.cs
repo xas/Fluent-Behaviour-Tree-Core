@@ -1,11 +1,7 @@
-﻿using FluentBehaviourTree;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using Xunit;
 
-namespace tests
+namespace Xas.FluentBehaviourTree.Tests
 {
     public class BehaviourTreeBuilderTests
     {

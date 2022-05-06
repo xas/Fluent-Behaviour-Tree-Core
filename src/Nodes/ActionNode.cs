@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace FluentBehaviourTree
+namespace Xas.FluentBehaviourTree
 {
     /// <summary>
     /// A behaviour tree leaf node for running an action.

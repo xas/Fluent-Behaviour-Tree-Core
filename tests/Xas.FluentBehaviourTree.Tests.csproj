@@ -15,6 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\fluent-behaviour-tree.csproj" />
+    <ProjectReference Include="..\src\Xas.FluentBehaviourTree.csproj" />
   </ItemGroup>
 </Project>

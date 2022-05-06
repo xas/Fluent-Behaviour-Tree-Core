@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
-namespace FluentBehaviourTree
+namespace Xas.FluentBehaviourTree
 {
     /// <summary>
     /// Runs child nodes in sequence, until one fails.
